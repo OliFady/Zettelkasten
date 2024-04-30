@@ -5,6 +5,7 @@
 - Indexing prevent Full Table Scan (Alt: Parallel Scan \ Partitioning)
 - List Index consists of Key and Location (O(N))
 - BTree Index consists of Key and Location (O(log(N)))
+- Like Query is still slow whether Column is Indexed or not
 
 ## Hash Indexing
 
