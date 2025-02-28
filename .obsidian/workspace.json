@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b88fd0735f7f374c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f427819e0665848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb3b536161a6bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Literature Notes/MoviesList/Movies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Movies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1efe7254c3cd1761",
+    "type": "split",
+    "children": [
+      {
+        "id": "d807262847c5c231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf5bc26c94da5a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "88f152c912958317",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e63d47109e19566",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b05c6cf07d7469b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "240c96d8a1c49a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31aafe46346ddc46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MoviesList/Movies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Movies"
+            }
+          },
+          {
+            "id": "17279b97767ba9ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MoviesList/Movies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Movies"
+            }
+          },
+          {
+            "id": "a097bde2cc3a845a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8520a3c1497051c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MoviesList/Movies.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Movies"
+            }
+          },
+          {
+            "id": "3c2a36608b7f6fe2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "fbb3b536161a6bfd",
+  "lastOpenFiles": [
+    "git/architecture.md",
+    "git/Git_Internals.md",
+    "git",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/image_(2).png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled 5.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled 4.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled 3.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled 2.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08/Untitled 1.png",
+    "System_Design/Replication & Sharding (1) 0c4edb3cc9624891a5e666e21cb93024/Untitled.png",
+    "System_Design/Publish Subscribe (1) 66666e70b0b24fbbba7a1515e4e88fa1/Untitled.png",
+    "System_Design/Proxy (1) 3c17b542ca5045e9b1adc4e9614be116/Untitled.png",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08.md",
+    "System_Design/Support DOC 2f1de79f20be41f7b3ee7f577c902c08",
+    "System_Design/SQL Databases (1) babc138931a5492a9bbdb6979be752b9.md",
+    "System_Design/Replication & Sharding (1) 0c4edb3cc9624891a5e666e21cb93024.md",
+    "System_Design/Replication & Sharding (1) 0c4edb3cc9624891a5e666e21cb93024",
+    "System_Design/Quoroms 2e4fa59b68e044728475e45f1f081628.md",
+    "System_Design/Publish Subscribe (1) 66666e70b0b24fbbba7a1515e4e88fa1.md",
+    "System_Design/Publish Subscribe (1) 66666e70b0b24fbbba7a1515e4e88fa1",
+    "System_Design/Proxy (1) 3c17b542ca5045e9b1adc4e9614be116.md",
+    "System_Design/Proxy (1) 3c17b542ca5045e9b1adc4e9614be116",
+    "System_Design/Polling and Streaming (1) 109118095bd64efba17961425b8de764.md",
+    "System_Design/Polling and Streaming (1) 109118095bd64efba17961425b8de764",
+    "System_Design/Map Reduce (1) 4300a72b933e4b4faab6f650ce0bb98c.md",
+    "System_Design/Map Reduce (1) 4300a72b933e4b4faab6f650ce0bb98c",
+    "System_Design/Load Balancing (1) a92aaab041844f59a0eed2d7029d9176.md",
+    "System_Design/Load Balancing (1) a92aaab041844f59a0eed2d7029d9176",
+    "System_Design/Hashing (1) fbadc943ea1d407a951f019bc25e2f9b.md",
+    "System_Design/Hashing (1) fbadc943ea1d407a951f019bc25e2f9b",
+    "System_Design/HTTPS (1) 776f627970264f1487b44e506f6f8b39.md",
+    "System_Design/HTTPS (1) 776f627970264f1487b44e506f6f8b39",
+    "System_Design/Client-Server Model d58fd03d70ff4952897e4aa6e4e6ff0f.md",
+    "System_Design/Caching bc9eb116e55c44dead46132d9fc8d42c.md",
+    "System_Design/Availability (1) 5ae08bc091f44f849b033de0d86d44c5.md",
+    "Networking/security/TLS.md",
+    "Networking/security/Encryption.md",
+    "Networking/proxy/proxy.md",
+    "Networking/proxy/load-balancing.md",
+    "Networking/protocols/udp.md",
+    "Networking/protocols/tcp.md",
+    "Networking/protocols/icmp.md",
+    "Networking/protocols/arp.md",
+    "Networking/protocols/Web-Sockets.md",
+    "Networking/protocols/HTTP.md"
+  ]
+}
